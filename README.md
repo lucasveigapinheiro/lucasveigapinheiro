@@ -18,6 +18,7 @@ Desenvolvedor Front-end Júnior em São Bernardo do Campo (SP), cursando Anális
 | [MAXX Pet Shop](https://github.com/lucasveigapinheiro/maxx-pet) | Site institucional animado para um pet shop — [ver no ar](https://maxx-pet.vercel.app) | HTML, CSS, JavaScript, GSAP |
 | [Rossi Mecânica](https://github.com/lucasveigapinheiro/MecanicaRossi) | Site institucional de uma oficina com contato via WhatsApp — [ver no ar](https://lucasveigapinheiro.github.io/MecanicaRossi/) | HTML, CSS, JavaScript |
 | [Trakinagem Pet Shop](https://github.com/lucasveigapinheiro/trakinagem-pet) | Site institucional de pet shop com agendamento via WhatsApp — [ver no ar](https://lucasveigapinheiro.github.io/trakinagem-pet/) | HTML, CSS, JavaScript, GSAP |
+| [GMG Equilíbrio](https://github.com/lucasveigapinheiro/gmg.site) | Landing page de produto com animações em GSAP — [ver no ar](https://gmg-site-beta.vercel.app) | HTML, CSS, JavaScript, GSAP |
 
 ## Contato
 
