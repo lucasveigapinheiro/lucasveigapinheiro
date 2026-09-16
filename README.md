@@ -16,7 +16,8 @@ Desenvolvedor Front-end Júnior em São Bernardo do Campo (SP), cursando Anális
 | [Controle de Gastos](https://github.com/lucasveigapinheiro/planilha-de-gastos) | Orçamento pessoal com login e previsto x realizado — [ver no ar](https://lucasveigapinheiro.github.io/planilha-de-gastos/) | JavaScript, Tailwind, Node.js |
 | [Clínica de Estética](https://github.com/lucasveigapinheiro/paty-clinica) | Painel com dashboard, agenda e pacientes — [ver no ar](https://paty-clinica.vercel.app/pages/dashboard.html) | JavaScript, HTML, CSS |
 | [MAXX Pet Shop](https://github.com/lucasveigapinheiro/maxx-pet) | Site institucional animado para um pet shop — [ver no ar](https://maxx-pet.vercel.app) | HTML, CSS, JavaScript, GSAP |
-| [Rossi Mecânica](https://github.com/lucasveigapinheiro/MecanicaRossi) | Site institucional de uma oficina com contato via WhatsApp | HTML, CSS, JavaScript |
+| [Rossi Mecânica](https://github.com/lucasveigapinheiro/MecanicaRossi) | Site institucional de uma oficina com contato via WhatsApp — [ver no ar](https://lucasveigapinheiro.github.io/MecanicaRossi/) | HTML, CSS, JavaScript |
+| [Trakinagem Pet Shop](https://github.com/lucasveigapinheiro/trakinagem-pet) | Site institucional de pet shop com agendamento via WhatsApp — [ver no ar](https://lucasveigapinheiro.github.io/trakinagem-pet/) | HTML, CSS, JavaScript, GSAP |
 
 ## Contato
 
